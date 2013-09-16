@@ -1,0 +1,4 @@
+idb
+===
+
+IDA Pro databases
